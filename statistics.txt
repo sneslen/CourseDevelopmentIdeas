@@ -3,3 +3,5 @@ Ideas for curriculum:
     - Mean and standard deviation
     - Regression
     - Bayes Theorm
+    - Normal distributions
+    - Ethics

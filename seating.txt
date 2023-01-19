@@ -1,0 +1,7 @@
+Seating
+
+    - 1st violins
+    - 2nd violins
+    - Violas
+    - Cellos
+    - Basses
